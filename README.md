@@ -39,5 +39,11 @@ Each of above items can be achieved using a quite straightforward and easy synta
 
 # LINKS
 
-Did you read the [license](LICENSE)? It's been written by the [Apache Software Foundation](http://www.apache.org).
+## INTERNAL REFERENCES
+
+Did you read the [license](LICENSE)? 
+
+## EXTERNAL LINKS
+
+It's been written by the [Apache Software Foundation](http://www.apache.org).
 
