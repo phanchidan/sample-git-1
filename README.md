@@ -45,5 +45,5 @@ Did you read the [license](LICENSE)?
 
 ## EXTERNAL LINKS
 
-It's been written by the [Apache Software Foundation](http://www.apache.org). A rather flexible one! Only requires to give credits if you include this material to your own works. 
+It's been written by the [Apache Software Foundation](http://www.apache.org). A rather flexible one! Only requires to credit original contributors if you include this material to your own works. 
 
