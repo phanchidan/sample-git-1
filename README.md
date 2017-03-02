@@ -5,16 +5,14 @@ The *purpose* of writing this file is to train using the **Markdown** notation.
 # OVERVIEW
 
 The Markdown notation features several very interesting capabilities such as:
-- Making lists
-- Making numbered lists
+- Making lists (itemized or numbered + hierarchical)
 - Making tables
-- Inserting links
-- Inserting internal references
+- Inserting links (internal or external references)
 - Inserting images
 - Inserting separators
 - Inserting code blocks (with colored syntax)
 
-Each of above items can be achieved using a quite straightforward and easy syntax.
+Each of above items can be achieved using an easy and quite straightforward syntax.
 
 # LISTS
 
@@ -41,9 +39,9 @@ Each of above items can be achieved using a quite straightforward and easy synta
 
 ## INTERNAL REFERENCES
 
-Did you read the [license](LICENSE)? 
+You should read the [license](LICENSE).
 
 ## EXTERNAL LINKS
 
-It's been written by the [Apache Software Foundation](http://www.apache.org). A rather flexible one! Only requires to credit original contributors if you include their works into your own works. 
+The license was written by the [Apache Software Foundation](http://www.apache.org). It's a rather flexible license which basically only requires you to credit original contributors when you include their works into your own works. 
 
